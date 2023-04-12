@@ -6,6 +6,9 @@
     margin:50px;
     padding:50px;
 }
+body{
+    background-color: beige;
+}
 img{
     height:500px;
     width:500px;
@@ -13,7 +16,7 @@ img{
 .header{
     text-align:center;
     font-weight: 1100;
-    font-size:250%
+    font-size:450%
 }
 .top{
     justify-items:space;
